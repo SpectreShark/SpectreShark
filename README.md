@@ -79,9 +79,7 @@
 
 ###
 
-<div style="text-align: left;">
-  <img src="https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient" alt="Codewars">
-</div>
+![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient)
 
 ###
 
