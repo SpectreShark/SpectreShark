@@ -6,6 +6,11 @@
 
 ###
 
+![GitHub Snake Light](https://raw.githubusercontent.com/mojoee/mojoee/output/github-snake-what-you-didnt-say.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/mojoee/mojoee/output/github-snake-what-you-didnt-say.svg#gh-dark-mode-only)
+
+###
+
 <h1 align="center">Привет👋 Меня зовут Геннадий!</h1>
 
 ###
