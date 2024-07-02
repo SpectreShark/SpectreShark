@@ -14,6 +14,12 @@
   <a href="https://t.me/Akulenok00" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="https://discord.com/channels/@me/497446205455073280" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=474A51&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://vk.com/i_akulenok" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Vk&logo=vk&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
+  </a>
 </div>
 
 ###
