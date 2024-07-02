@@ -79,7 +79,7 @@
 
 ###
 
-![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&theme=gradient)
 
 ###
 
