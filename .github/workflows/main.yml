@@ -20,7 +20,7 @@ jobs:
             - name: generate contribution snake svg
               uses: Platane/snk/svg-only@v3
               with:
-                  github_user_name: ${{ github.repository_owner }}
+                  github_user_name: SpectreShark
                   outputs: |
                       dist/github-snake-hue18.svg?color_snake=#289bcc&color_dots=#ebedf0,#ea672e,#c15526,#9e451f,#6b2f15
                       dist/github-snake-hue198.svg?color_snake=#cc5928&color_dots=#171b22,#15516b,#1f789e,#2693c1,#2eb2ea
