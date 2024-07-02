@@ -69,7 +69,13 @@
 
 ###
 
------------![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient)
+<div style="text-align: center;">
+  <img src="https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient" alt="Codewars">
+</div>
+
+###
+
+![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient)
 
 ###
 
