@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Я начинающий Backend разработчик. Мой путь начался с данных языков Python, Java, Kotlin. Больше всего меня зацепила Backend разработка!</p>
+<p align="left">Я начинающий Backend разработчик. Мой путь начался с данных языков: Python, Java, Kotlin. Больше всего меня зацепила Backend разработка!</p>
 
 ###
 
@@ -43,8 +43,6 @@ ign="center">
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
