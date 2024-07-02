@@ -75,7 +75,7 @@
 
 ###
 
-![Codewars](https://github.r2v.ch/codewars?user=akulenok1200)
+![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&name=true&top_languages=true&theme=gradient)
 
 ###
 
