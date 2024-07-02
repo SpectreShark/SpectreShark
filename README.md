@@ -65,12 +65,11 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=SpectreShark&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <span>![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient)</span>
 </div>
 
 ###
 
-![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient)
+-----------![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&top_languages=true&theme=gradient)
 
 ###
 
