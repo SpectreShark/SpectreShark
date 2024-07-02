@@ -75,9 +75,9 @@
 
 ###
 
-<div align="center">
-  ![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&theme=gradient&top_languages=true&name=true)
-</div>
+```md
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+```
 
 ###
 
