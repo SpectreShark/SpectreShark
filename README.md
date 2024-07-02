@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  ![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&stroke=%23BB432C)
+  ![Codewars](https://github.r2v.ch/codewars?user=akulenok1200)
 </div>
 
 ###
