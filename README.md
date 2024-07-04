@@ -37,7 +37,11 @@
 ###
 
 <p align="left">Я начинающий Backend разработчик. Мой путь начался с языков: Python, Java и Kotlin. Больше всего меня зацепила Backend разработка!</p>
+
+###
+
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
