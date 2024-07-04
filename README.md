@@ -80,7 +80,6 @@
 ###
 
 ![Codewars](https://github.r2v.ch/codewars?user=akulenok1200&theme=gradient)
-[![codewars](https://www.codewars.com/users/akulenok1200/badges/large)](https://www.codewars.com/users/akulenok1200)   
 
 ###
 
